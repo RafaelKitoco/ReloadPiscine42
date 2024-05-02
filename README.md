@@ -12,4 +12,4 @@ Este é o meu Reload Piscine 42, onde estarão todos os meus exercícios da Esco
 - [x] Exercício 5:Can you create it ?
 
 ## Exercícios de Outras Linguagens
-
+- [x] Exercício 6: ft_print_alphabet
